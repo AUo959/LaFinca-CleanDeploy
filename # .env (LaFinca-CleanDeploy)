@@ -1,0 +1,8 @@
+# .env (LaFinca-CleanDeploy)
+
+REPO_DIR=/workspaces/LaFinca-CleanDeploy
+GITHUB_USER=AUo959
+GITHUB_REPO=LaFinca-CleanDeploy
+SYMBOLIC_SEED=LaFinca_Symbolic_Seed_0425
+CLOUD_DEPLOY_STAGE=active
+GUI_MODE=release
